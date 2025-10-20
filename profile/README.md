@@ -2,7 +2,7 @@
 
 # TEADAL project public repository
 
-TEADAL is a EU funded projct that provides key cornerstone technologies to create stretched data lakes spanning the cloud-edge continuum and multi-cloud, providing privacy, confidentiality, and energy-efficient data management.
+TEADAL is a EU funded project that provides key cornerstone technologies to create stretched data lakes spanning the cloud-edge continuum and multi-cloud, providing privacy, confidentiality, and energy-efficient data management.
 
 
 
