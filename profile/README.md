@@ -16,6 +16,7 @@ This github organization collects the main technologies developed in the project
 Tools in experimental stages
 - [OPA LLM Editor](https://github.com/HE-TEADAL-PROJECT/opa-llm-editor)
 - [DSPN Editor](https://github.com/HE-TEADAL-PROJECT/dspn-editor)
+- [AI Inference with ZKP](https://github.com/HE-TEADAL-PROJECT/ai-inference-verification-zkp)
 ---
 
 ![image](../img/euflag.png)
