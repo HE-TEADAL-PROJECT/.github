@@ -13,6 +13,8 @@ This github organization collects the main technologies developed in the project
 - [Data catalog]()
 - [Policy Manager](https://github.com/HE-TEADAL-PROJECT/opa-policy-manager)
 
+Tools in experimental stages
+- [OPA LLM Editor](https://github.com/HE-TEADAL-PROJECT/opa-llm-editor)
 ---
 
 ![image](../img/euflag.png)
